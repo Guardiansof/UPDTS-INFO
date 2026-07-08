@@ -1,0 +1,9 @@
+{
+  "latest_version": "4.1",
+  "download_url": "https://github.com/senin_hesabin/fingersnap/releases",
+  "release_notes": {
+    "tr": "Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
+    "en": "Bug fixes and performance improvements.",
+    "de": "Fehlerbehebungen und Leistungsverbesserungen."
+  }
+}
