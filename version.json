@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.0",
-  "download_url": "https://github.com/senin_hesabin/fingersnap/releases",
+  "download_url": "https://github.com/sen/fsnp/releases",
   "release_notes": {
     "US": "Bug fixes and performance improvements.",
     "TR": "Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
