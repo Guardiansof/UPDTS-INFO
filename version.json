@@ -2,8 +2,18 @@
   "latest_version": "2.8.0",
   "download_url": "https://github.com/senin_hesabin/fingersnap/releases",
   "release_notes": {
-    "TR": "Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
     "US": "Bug fixes and performance improvements.",
-    "DE": "Fehlerbehebungen und Leistungsverbesserungen."
+    "TR": "Hata düzeltmeleri ve performans iyileştirmeleri yapıldı.",
+    "DE": "Fehlerbehebungen und Leistungsverbesserungen.",
+    "FR": "Corrections de bugs et améliorations des performances.",
+    "IT": "Correzioni di bug e miglioramenti delle prestazioni.",
+    "PL": "Poprawki błędów i usprawnienia wydajności.",
+    "BR": "Correções de bugs e melhorias de desempenho.",
+    "ES": "Correcciones de errores y mejoras de rendimiento.",
+    "RU": "Исправлены ошибки и повышена производительность.",
+    "AR": "إصلاحات للأخطاء وتحسينات في الأداء.",
+    "HI": "बग सुधार और प्रदर्शन में सुधार।",
+    "JA": "バグ修正およびパフォーマンスの改善。",
+    "ZN": "错误修复和性能优化。"
   }
 }
